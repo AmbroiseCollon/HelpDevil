@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 .idea
 
+=======
+>>>>>>> e090e2707918eae3d249aabbd544a748144211c2
 # Logs
 logs
 *.log
@@ -16,6 +19,12 @@ lib-cov
 # Coverage directory used by tools like istanbul
 coverage
 
+<<<<<<< HEAD
+=======
+# nyc test coverage
+.nyc_output
+
+>>>>>>> e090e2707918eae3d249aabbd544a748144211c2
 # Grunt intermediate storage (http://gruntjs.com/creating-plugins#storing-task-files)
 .grunt
 
@@ -25,8 +34,14 @@ coverage
 # Compiled binary addons (http://nodejs.org/api/addons.html)
 build/Release
 
+<<<<<<< HEAD
 # Dependency directory
 node_modules
+=======
+# Dependency directories
+node_modules
+jspm_packages
+>>>>>>> e090e2707918eae3d249aabbd544a748144211c2
 
 # Optional npm cache directory
 .npm
